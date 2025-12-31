@@ -23,7 +23,9 @@ The Dynamic Cost Principle (DCP) is an operational method formulated by Faical L
 The principle is defined by its operational formulation and reproducible application, not by thematic similarity, informal analogy, or retrospective reinterpretation of prior work.
 
 Author: Faical Lami Independent Researcher 
+
 Email: lami-faisal@outlook.com
+
 Canonical archived version (DOI):10.5281/zenodo.18075811
 
  
